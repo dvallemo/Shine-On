@@ -87,12 +87,13 @@ OSHPark renders:
 ## Repository Structure
 
 ```
+
 shine-on-v1/
-â”œâ”€â”€ kicad/              # KiCad project files (.kicad_sch, .kicad_pcb, .kicad_pro)
-â”œâ”€â”€ gerbers/            # Fabrication output files
-â”œâ”€â”€ images/             # Schematic, layout, render, and OSHPark screenshots
-â”œâ”€â”€ bom/                # Bill of materials (CSV or Excel)
-â””â”€â”€ README.md
+├── kicad/
+├── gerbers/
+├── images/
+├── bom/
+└── README.md
 ```
 
 ---
